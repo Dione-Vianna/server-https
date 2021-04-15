@@ -1,0 +1,11 @@
+{
+  "name": "server-https",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dione-Vianna/server-https.git",
+  "author": "Dione Vianna <dioneg12@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
