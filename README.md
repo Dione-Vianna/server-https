@@ -49,7 +49,7 @@ Apos terminar de instalar certbot, rode o comando no terminal
 certbot certonly --standalone
 ```
 
-OBS: A porta 80 tem que esta livre então caso de erro verifica se tem algum programa rodando nesta porta é para o processor
+OBS: A porta 80 tem que esta livre então caso de erro verifica se tem algum programa rodando nesta porta é para o processo
 
 Ele vai pedir alguns dados para você como email e domínio, se tudo estiver certo ele vai gera o certificado é vai lhe mostra o caminho onde o mesmo esta, pegue esse caminho e coloque no seu arquivo principal, no meu caso o <strong>index.js</strong>
 
